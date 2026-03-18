@@ -1,6 +1,6 @@
 {
   "name": "clswind",
-  "version": "26.12.2",
+  "version": "26.12.3",
   "description": "A lightweight utility to conditionally join Tailwind CSS classes without conflicts. Stop copy-pasting `cn` helper functions.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
