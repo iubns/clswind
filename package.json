@@ -1,6 +1,6 @@
 {
   "name": "clswind",
-  "version": "26.12.1",
+  "version": "26.12.2",
   "description": "A utility for constructing className strings conditionally",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
