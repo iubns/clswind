@@ -1,7 +1,7 @@
 {
   "name": "clswind",
   "version": "26.12.2",
-  "description": "A utility for constructing className strings conditionally",
+  "description": "A lightweight utility to conditionally join Tailwind CSS classes without conflicts. Stop copy-pasting `cn` helper functions.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -27,7 +27,15 @@
     "css",
     "tailwindcss",
     "clsx",
-    "tailwind-merge"
+    "tailwind-merge",
+    "cn",
+    "utility",
+    "helper",
+    "react",
+    "vue",
+    "svelte",
+    "nextjs",
+    "shadcn-ui"
   ],
   "author": "iubns",
   "license": "MIT",

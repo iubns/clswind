@@ -5,6 +5,18 @@ A tiny, fast utility for merging Tailwind CSS classes without conflicts.
 [![npm version](https://img.shields.io/npm/v/clswind.svg)](https://www.npmjs.com/package/clswind)
 [![License](https://img.shields.io/npm/l/clswind.svg)](https://github.com/iubns/clswind/blob/main/LICENSE)
 
+## Why clswind?
+
+Every Tailwind CSS project seems to start with the same ritual: creating a `lib/utils.ts` file and copy-pasting the `cn` helper function.
+
+**Stop copy-pasting.**
+
+`clswind` provides this standard utility as a package, so you can:
+
+- 🚀 **Save time**: No more boilerplate files in every project.
+- 📦 **Keep it clean**: One less file to maintain.
+- 🛠 **Stay updated**: Get improvements and fixes automatically.
+
 ## Introduction
 
 `clswind` combines the power of [clsx](https://github.com/lukeed/clsx) and [tailwind-merge](https://github.com/dcastil/tailwind-merge) into a single, easy-to-use function.
